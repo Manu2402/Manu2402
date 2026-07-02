@@ -103,7 +103,7 @@ Tech Stack, setup, controls, and configuration, with **screenshots, GIFs or clip
 
 <div align="center">
   <a href="https://github.com/Manu2402?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=450&height=50&lines=%E2%9E%A4+Browse+Pinned+Repositories;%F0%9F%9A%80+Explore+The+Architectures;%F0%9F%92%BB+Inspect+The+Source+Code" alt="Browse Repositories" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=450&height=50&lines=%E2%9E%A4+Browse+Repositories;%F0%9F%9A%80+Explore+The+Architectures;%F0%9F%92%BB+Inspect+The+Source+Code" alt="Browse Repositories" />
   </a>
 </div>
 
