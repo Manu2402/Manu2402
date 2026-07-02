@@ -53,7 +53,7 @@ private:
 
 <div align="center">
 
-Every pinned repository follows the same three-layer README. Pick the depth you need.
+Every repository follows the same three-layer README. Pick the depth you need.
 
 </div>
 
