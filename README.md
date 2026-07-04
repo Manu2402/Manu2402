@@ -49,11 +49,11 @@ private:
 
 <br/>
 
-## `// navigate the repos` (in progress)
+## `// navigate the repos`
 
 <div align="center">
 
-Every repository follows the same three-layer README. Pick the depth you need.
+Almost every repository follows the same three-layer README. Pick the depth you need.
 
 </div>
 
