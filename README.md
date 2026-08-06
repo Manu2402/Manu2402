@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manu2402-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu2402/)
 [![GitHub](https://img.shields.io/badge/Repositories-Manu2402-181717?style=for-the-badge&logo=github&logoColor=2DD4BF)](https://github.com/Manu2402?tab=repositories)
-[![Company](https://img.shields.io/badge/@-Maia_Management-CD7F32?style=for-the-badge)](https://maiamanagement.it/)
+<!-- [![Company](https://img.shields.io/badge/@-Maia_Management-CD7F32?style=for-the-badge)](https://maiamanagement.it/) -->
 
 </div>
 
