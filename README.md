@@ -4,7 +4,7 @@
 
 <h1>Manuel Solano</h1>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Game+Programmer;Engine+Programmer;Rendering+Addicted;Networking+Addicted" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Game+Development;Engine+Development;Rendering+Addicted;Networking+Addicted" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## `// about`
 
-**Game/Engine Programmer** with a strong focus on **low-level systems** and **real-time programming**.
+**Software Engineer** with a strong focus on **low-level systems** and **real-time programming**, primarily in game development.
 
 I'm driven by understanding how software actually works **under the hood**: from **C++ and C# architecture** down to **memory management** and **system internals**, rather than treating any part of the stack as a black box.
 
@@ -31,14 +31,12 @@ I enjoy problems that require **precision and depth**, and I'm always looking to
 <sub>TL;DR, in code:</sub>
 
 ```cpp
-class Manuel final : public GameProgrammer
+class Manuel final : public SoftwareEngineer
 {
 public:
-    static constexpr std::array<Focus, 4> interests = {
-        Focus::GameProgramming,
-        Focus::EngineProgramming,
-        Focus::Rendering,
-        Focus::Networking
+    static constexpr std::array<Focus, 2> interests = {
+        Focus::Game Development,
+        Focus::Engine Development
     };
 
 private:
