@@ -111,20 +111,6 @@ Tech Stack, setup, controls, and configuration, with **screenshots, GIFs or clip
 
 <br/>
 
-## `// stats`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manu2402&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&hide_border=false" width="100%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Manu2402&theme=dark&background=0d1117&border=2dd4bf&ring=cd7f32&fire=cd7f32&currStreakLabel=2dd4bf" />
-
-</div>
-
-<br/>
-
 ## `// contact`
 
 <div align="center">
