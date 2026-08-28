@@ -35,8 +35,8 @@ class Manuel final : public SoftwareEngineer
 {
 public:
     static constexpr std::array<Focus, 2> interests = {
-        Focus::Game Development,
-        Focus::Engine Development
+        Focus::GameDevelopment,
+        Focus::EngineDevelopment
     };
 
 private:
